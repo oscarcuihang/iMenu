@@ -9,6 +9,7 @@ CREATE TABLE food_example (
   PRIMARY KEY (id)
 );
 
+
 INSERT INTO food_example VALUES ("","/iMenu/food/1.jpg","Chicken","hot","Chicken, Green onion");
 INSERT INTO food_example VALUES ("","/iMenu/food/2.jpg","Tofu","hot","Tofu, Hot sauce");
 INSERT INTO food_example VALUES ("","/iMenu/food/3.jpg","Noodle","medium","Noodle, onion");
